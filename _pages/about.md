@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 classes: wide
 ---
-Stuff & Things
+Stuff & Things about Steven Clontz!
 
 ## Professional
 

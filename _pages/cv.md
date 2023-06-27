@@ -18,7 +18,7 @@ a.uline {text-decoration:underline;}
 ## Education
 ---
 **In Progress**<br>
-Ph.D. in Knowledge<br>
+Ph.D. in Awesomeness<br>
 University<br>
 *Advisor: Prof. Albert Einstein*
 

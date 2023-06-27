@@ -100,12 +100,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Name1 Name2"
+  name             : "Steven Clontz"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Master of CSS"
+  bio              : "PhD of Horribleness"
   location         : 
   employer         : 
-  email            : "email@email.com"
+  email            : "sclontz@southalabama.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        : 
